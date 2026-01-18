@@ -33,11 +33,7 @@
    - Edge: [Edge 外接程序](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. **安装脚本**
-   - 打开 Tampermonkey 控制面板
-   - 点击"添加新脚本"
-   - 复制 `chatgpt-conversation-nav.user.js` 文件的全部内容
-   - 粘贴到编辑器中
-   - 按 `Ctrl+S`（或 `Cmd+S`）保存
+   - 从 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/563105-chatgpt-%E5%AF%B9%E8%AF%9D%E9%A2%84%E8%A7%88%E4%B8%8E%E8%B7%B3%E8%BD%AC) 安装
 
 3. **验证安装**
    - 访问 [ChatGPT](https://chatgpt.com/)
